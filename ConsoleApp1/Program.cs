@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello world!");
             Console.WriteLine("Hello world again!");
+            Console.WriteLine("Change from github text editor");
         }
     }
 }
